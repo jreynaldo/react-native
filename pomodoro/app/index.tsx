@@ -10,7 +10,7 @@ export default function Index() {
         alignItems: "center",
       }}
     >
-      <Text style={{fontSize:32, }}>Pomodoro</Text>
+      <Text style={{fontSize:32, }}>Pomodoro Reynaldo</Text>
   
     </View>
   );
